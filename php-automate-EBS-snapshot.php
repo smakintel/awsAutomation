@@ -1,4 +1,5 @@
 <?php
+// Code by Kava feel free to modify and distribute
 date_default_timezone_set('Asia/Singapore');
 
 
